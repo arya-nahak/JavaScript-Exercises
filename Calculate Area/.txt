@@ -1,0 +1,3 @@
+Calculate the area of a triangle:
+
+Write a function that takes the base and height of a triangle as input and returns the calculated area (area = 1/2 * base * height).
